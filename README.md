@@ -8,10 +8,16 @@
 
 <h2>Technologies<a name="technologies_h"></a></h2>
 <p></p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>p><br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://nodejs.org/static/images/logo-hexagon-card.png" alt="node" width="40" height="40"/> </a>
+<a href="https://mochajs.org/" target="_blank"> <img src="https://danielkorn.io/images/mocha.png" alt="node" width="40" height="40"/> </a>
+<a href="https://docs.soliditylang.org/en/v0.8.10/" target="_blank"> <img src="https://banner2.cleanpng.com/20190726/kfh/kisspng-solidity-smart-contract-programming-language-ether-blockchain-development-bearplex-5d3afdfeca75f8.3709799715641471988293.jpg" alt="node" width="40" height="40"/> </a>
+<a href="https://ethereum.org/en/" target="_blank"> <img src="https://www.vhv.rs/dpng/d/420-4206472_fork-cryptocurrency-ethereum-bitcoin-classic-png-download-ethereum.png" alt="node" width="40" height="40"/> </a>
+<br>
 
 <h2>Status <a name="status_h"></a></h2>
 <p>Complete!! 🎉🎉🎉</p><br>
 
 <h2>Inspiration and acknowlegde <a name="acknowledge_h"></h2>
-<p>These exercices are based on the course <a href='https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/'>Zero to Mastery Deep Learning with TensorFlow</a> by the legend Daniel Bourke</p>
+<p>This is based on the course <a href=https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/'>Ethereum and Solidity: The Complete Developer's Guide
+</a> by Stephen Grider</p>
