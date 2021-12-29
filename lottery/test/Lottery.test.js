@@ -125,6 +125,8 @@ describe('Lottery Contract was deployed', () =>{
 			const balance = await web3.eth.getBalance(lottery.options.address);
 			assert.equal(0, balance)
 
-		})
+		});
+
+		//it('The last winner of the game')
 	});
 });
