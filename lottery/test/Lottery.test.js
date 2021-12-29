@@ -126,7 +126,5 @@ describe('Lottery Contract was deployed', () =>{
 			assert.equal(0, balance)
 
 		});
-
-		//it('The last winner of the game')
 	});
 });
